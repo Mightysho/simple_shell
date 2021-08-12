@@ -36,7 +36,7 @@ In other words, simple_shell is a program that reads commands provided, check if
 
 ## Project Consideration
 
-### General considerations Requirements
+### General considerations
  * The program is builted and run in `Ubuntu 20.04 LTS`
  * The program is compiled with `gcc` using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`
  * The code is in format: Betty style. `betty *.c`
