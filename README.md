@@ -198,4 +198,4 @@ drwxrwxr-x 11 vagrant vagrant  4096 Apr 16 21:24 ..
 ## Authors
 
 - [Micheal Shokunbi](https://github.com/Mightysho/) | <mightysho123@yahoo.com>
-- [Elnatan**Samuel](https://github.com/Elnatan999/) | <krosection999@gmail.com>
+- [Elnatan Samuel](https://github.com/Elnatan999/) | <krosection999@gmail.com>
