@@ -10,6 +10,7 @@ static list_t *last_cmd;
  *
  * Return: Address of history head
 */
+
 list_t **get_history_addrss()
 {
 	if (no_init_history == 1)
