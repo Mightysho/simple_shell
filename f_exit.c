@@ -8,6 +8,7 @@
  *
  * Return: 0 if the commad is NOT exit, -1 if the exit status was Illegal
 */
+
 int handle_exit(char *buff, char **cmds_list, char **commands)
 {
 	int status;
