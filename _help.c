@@ -7,6 +7,7 @@
  * @line: line of text
  * Return: execution of read_line: 1 if success
  */
+
 int read_line(const int fd, char **line)
 {
 	int			reader;
