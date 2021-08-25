@@ -5,6 +5,7 @@ static int COUNT_LINES;
 /**
  * update_count_lines - Counts the lines in a previo
 */
+
 void update_count_lines(void)
 {
 	char curr_dir[512];
