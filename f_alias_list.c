@@ -1,6 +1,7 @@
 #include "shell.h"
 
 static int not_init_alias_head = 1;
+
 static list_t *alias_head;
 
 /**
@@ -8,6 +9,7 @@ static list_t *alias_head;
  *
  * Return: Pointer to alias head var
 */
+
 list_t **get_alias_head()
 {
 	if (not_init_alias_head == 1)
