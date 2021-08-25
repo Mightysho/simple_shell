@@ -4,6 +4,7 @@
  * handle_var_replacement - Handles dollar vars '$'
  * @commands: Array of commands
 */
+
 void handle_var_replacement(char **commands)
 {
 	int i;
