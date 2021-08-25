@@ -6,6 +6,7 @@
  *
  * Return: 0, on success, -1 on error
 */
+
 int validate_env_name(char *name)
 {
 	if (name == NULL)
