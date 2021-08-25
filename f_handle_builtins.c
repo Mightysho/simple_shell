@@ -9,6 +9,7 @@ int other_set_buitlins(char **commands);
  *
  * Return: 1 if the command is a builtin, 0 otherwise
 */
+
 int handle_builtins(char **commands)
 {
 	if (commands[0] == NULL)
