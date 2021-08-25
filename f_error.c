@@ -4,6 +4,7 @@
  * dispatch_error - Dispatches an error
  * @msg: Message to print as error
 */
+
 void dispatch_error(char *msg)
 {
 	/* int len = _strlen(msg); */
