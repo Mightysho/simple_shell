@@ -6,6 +6,7 @@
  *
  * Return: Pointer to environment variable value
 */
+
 char *_getenv(char *name)
 {
 	int i;
