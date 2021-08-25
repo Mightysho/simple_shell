@@ -7,6 +7,7 @@
  *
  * Return: Array of strings
 */
+
 char **parse_user_input(char *str_input, char *delimiter)
 {
 	int i, args_count = 0;
