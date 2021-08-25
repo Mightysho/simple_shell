@@ -6,6 +6,7 @@
  *
  * Return: pointer to string
  */
+
 char *handle_comment(char *str_input)
 {
 	char *without_comments = str_input;
