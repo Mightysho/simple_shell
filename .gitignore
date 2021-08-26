@@ -1,0 +1,14 @@
+.vscode/
+*test*/
+*test*
+*simple_shell
+*~
+*#
+*.exe
+*.out
+*.o
+*.gch
+*.log
+hsh
+0x16_Tests
+*.gz
